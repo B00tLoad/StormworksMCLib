@@ -1,2 +1,2 @@
-require("b00tload.stormworks_mc.Button")
-require("b00tload.stormworks_mcColor")
+require("B00tLoad.stormworks-mc.Button")
+require("B00tLoad.stormworks-mc.Color")
